@@ -1,0 +1,5 @@
+matplotlib>=3.7
+numpy>=1.24
+# Solo para regenerar el reporte PDF:
+reportlab>=4.0
+pillow>=10.0
